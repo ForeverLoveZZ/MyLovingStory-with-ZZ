@@ -1,8 +1,8 @@
 ## I love ZZ.
 
-You can use the [editor on GitHub](https://github.com/ForeverLoveZZ/MyLovingStory-with-ZZ/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2017.10.24
+我和周周的友谊走到了尽头...
+但是爱情的床铺已经铺好了啊！
 
 ### Markdown
 
